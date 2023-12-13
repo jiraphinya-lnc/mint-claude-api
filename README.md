@@ -147,7 +147,8 @@ Educator, Thailand , วิทยากรรับเชิญหน่วย�
 
 <h4 align="right">
   <strong>✨เกี่ยวกับ bison@001 vertex ai</strong>
+</h4>
+<h4 align="right">
   <strong>ฉันกำลังฝึกโมเดล mint-thai-text-bison-z 1.01 บน gg vertex ai</strong>
 </h4>
-
   
